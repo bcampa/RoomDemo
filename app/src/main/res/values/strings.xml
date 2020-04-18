@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="btn_signup">Cadastro</string>
+    <string name="btn_view_users">Ver usuários</string>
+    <string name="icon_credits">Ícone feito por Freepik de www.flaticon.com</string>
+    <string name="empty_list_view_placeholder">O banco de dados não possui nenhum usuário no momento.</string>
+    <string name="btn_go_back">Voltar</string>
+    <string name="form_name">Nome</string>
+    <string name="form_login">Login (Email)</string>
+    <string name="form_password">Senha</string>
+    <string name="form_confirm_password">Confirmar senha</string>
+    <string name="form_cpf">CPF</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="error_empty_field">Todos os campos são obrigatórios</string>
+    <string name="error_special_characters">O nome não pode conter caracteres especiais</string>
+    <string name="error_email_format">O login deve ser um email</string>
+    <string name="error_password_mismatch">As duas senhas não correspondem</string>
+    <string name="error_cpf_format">O CPF deve seguir o seguinte formato: xxx.xxx.xxx-xx</string>
+</resources>
